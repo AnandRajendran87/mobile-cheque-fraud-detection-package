@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+opencv-python
+pydantic
+joblib
+matplotlib
+shap
+torch
+torchvision
+pytest

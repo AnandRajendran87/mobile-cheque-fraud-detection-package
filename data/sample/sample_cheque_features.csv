@@ -1,0 +1,5 @@
+check_id,amount,payee,image_quality_score,signature_match_score,layout_anomaly_score,tamper_score,duplicate_score,fraud_label
+CHK-1001,245.20,ABC Supplies,0.94,0.91,0.08,0.05,0.01,0
+CHK-1002,4290.00,John Smith,0.81,0.42,0.35,0.72,0.04,1
+CHK-1003,88.10,Utility Company,0.89,0.87,0.1,0.12,0.02,0
+CHK-1004,7500.00,Cash,0.76,0.39,0.62,0.81,0.67,1
